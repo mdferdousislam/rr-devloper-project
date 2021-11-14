@@ -1,0 +1,480 @@
+/**
+@media only screen and (max-width: 1440px), only screen and (max-device-width: 1440px) {
+
+	
+
+
+}
+
+@media only screen and (max-width: 1200px), only screen and (max-device-width: 1200px) {
+
+	.pc_footer_right ul li a{
+		font-size: 11.5px;
+	}
+	.nav_logo_d {
+		max-width: 46.8% !important;
+		width: 100%;
+	}
+	.nav_logo_d {
+		max-width: 44%;
+		width: 100%;
+	}
+	.inner1_item, .inner1_item1{
+		max-width: 290px;
+		margin-right: 7px;
+	}
+	.inner1_item2, .inner1_item3{
+		max-width: 154px;
+	}
+	.inner2_item {
+		max-width: 290px;
+		margin-right: 7px;
+	}
+	.inner2_item1{
+		max-width: 128px;
+		margin-right: 0px;
+	}
+	.inner2_item2{
+		max-width: 80px;
+	}
+	.inner2_item3{
+		max-width: 90px;
+	}
+	.inner2_item4{
+		max-width: 138px;
+	}
+	.inner2_item5{
+		max-width: 160px;
+	}
+	.inner2_item5>button{
+		max-width: 160px;
+	}
+	.fooditem_title_right{
+		margin-left: 270px;
+	}
+	.card_text_inner p span{
+		padding-left: 78px;
+	}
+	.card_text_inner h3{
+		font-size: 12px;
+	}
+	.card_text_inner2 p{
+		font-size: 12px;
+	}
+	.card_text_inner ul li a{
+		font-size: 11px;
+	}
+	.card_text_inner_ul_item1 {
+		margin-left: -4px !important;
+	}
+	.card_text_inner_ul_item2 {
+		margin-left: 0px !important;
+	}
+	.card_text_inner3_right{
+		margin-left: 48px;
+	}
+	.card_text_inner4 ul li a{
+		font-size: 9.7px;
+	}
+	.card_text_inner4 ul li a:after{
+		top: 5px;
+	}
+	
+	.pc_footer_right ul li a{
+		font-size: 11.5px;
+	}
+	.dropdown_item2{
+		left: -66px;
+	}
+	.dropdown_item3{
+		left: 566px;
+	}
+	 .notification_inner ul li:nth-child(1) a{
+		font-weight: 600 !important;
+	}
+}
+
+}
+
+@media only screen and (max-width: 1024px), only screen and (max-device-width: 1024px){
+	
+	
+	
+	
+}
+
+
+@media only screen and (max-width: 991px), only screen and (max-device-width: 991px) {
+
+
+	.bannar_area{
+		display: none;
+	}
+	.tab_banner{
+		margin-top: 52px;
+		display: block;
+	}
+	.tab_banner_top{
+		padding-bottom: 0 !important;
+		background: #fff;
+	}
+	.loss_padding{
+		margin-top: 0;
+	}
+	body{
+		background: #f5f5f5 !important;
+	}
+	.account_list_inner ul li:nth-child(1) a{
+		margin-top: -7px;
+    	padding-bottom: 5px;
+	}
+	.account_list_inner ul li:nth-child(3) a{
+		margin-top: -4px;
+	}
+	
+	.account_feedback_list ul li:nth-child(5) a{
+		margin-top: -4px;
+	}
+	.account_feedback_list ul li:nth-child(6) a{
+		margin-top: -8px;
+	}
+	.yourpage_manu_inner ul li{
+		border: none;
+	}
+	.yourpage_manu_inner ul li:nth-child(7){
+		border: none;
+	}
+}
+
+@media only screen and (max-width: 768px), only screen and (max-device-width: 768px) {
+	
+	.createpage_heading_inner h1{
+		font-size: 42px;
+	}
+	.banner_form_inner_item{
+		margin-bottom: -15px;
+	}
+		
+	.account_copright_inner p{
+		max-width: 350px;
+	}
+	.account_top_title a{
+		right: 16px;
+	}
+		.tab_banner {
+		padding-bottom: 94px;
+	}
+	.tab_banner_text {
+		padding-top: 20px;
+	}
+	.tab_banner_text p{
+		text-align: left;
+		font-size: 15px;
+	}
+	.tab_banner_form{
+		padding-top: 20px;
+	}
+	.banner_form_inner_item {
+		margin-bottom: -6px;
+	}
+	.banner_form_inner_item1 select{
+		margin-top: 18px;
+	}
+	.banner_form_inner_check{
+		margin-top: 7px;
+	}
+	#banner_form_inner_item {
+		margin-top: 1px;
+		margin-bottom: 41px;
+	}
+	.account_top_title{
+		border-bottom: 1px solid#b8b8b8;
+		padding: 26px 0px 7px;
+	}
+	.account_list_inner ul{
+		max-width: 100%;
+	}
+	.account_list_inner ul li{
+		margin-left: 0px;
+		border-bottom: none;
+	}
+	.account_feedback_list{
+		border-top: 1px solid#b8b8b8;
+		padding-top: 8px;
+	}
+	.account_list_area{
+		padding-top: 15px;
+	}
+	.account_list_inner ul li:nth-child(3) {
+		padding-top: 12px;
+		padding-bottom: 32px;
+	}
+	.account_list_inner ul li{
+		padding: 14px 0px;
+	}
+	.account_feedback_list ul li{
+		padding: 11px 0px;
+		margin-left: 0px;
+	}
+	.account_copright_area{
+		padding-left: 0px;
+		padding-top: 40px;
+		padding-bottom: 82px;
+	}
+	.account_copright_inner p {
+		max-width: 331px;
+	}
+	.createpage_heading_inner h1 {
+		font-size: 30px;
+		line-height: 34px;
+		max-width: 343px;
+		margin: 0 auto;
+	}
+	.heading_inner_item li:nth-child(9){
+		display: none;
+	}
+	.createpage_heading{
+		padding-top: 37px;
+	}
+	.createpage_heading_inner img {
+		margin-bottom: 8px;
+	}
+	.createpage_heading_inner p{
+		padding-top: 18px;
+		padding-bottom: 19px;
+	}
+	.heading_inner_item li{
+		padding: 0px 0px;
+	}
+	.createpage_heading_inner button{
+		max-width: 162px;
+		margin-top: 6px;
+    	margin-bottom: 40px
+	}
+	.Loder_inner{
+		margin-top: 2px;
+		margin-bottom: 87px;
+	}
+	/*.yourpage_area_title{
+		border-bottom: 1px solid #bfbfbf;
+	}
+	.yourpage_manu_inner ul{
+		max-width: 100%;
+		margin-left: 0px;
+	}
+	.yourpage_manu{
+		padding-top: 14px;
+		padding-bottom: 163px;
+	}
+	.manu_inner_list li{
+		padding-left: 48px!important;
+	}
+	.yourpage_manu_inner_item:after {
+		top: 17px;
+	}
+	.yourpage_manu_inner ul li{
+		padding: 9px 0px;
+		border-bottom: none;
+	}
+	.yourpage_manu_inner ul li>.manu_inner_list li {
+		padding-left: 60px!important;
+	}
+	.manu_inner_list li:nth-child(1) {
+		padding-top: 10px !important;
+	}
+	.manu_inner_list li:nth-child(2){
+		padding-top: 0px!important;
+		padding-bottom: 0px;
+	}
+	.yourpage_manu_inner_item1{
+		margin-top: 22px!important;
+		padding-top: 13px!important;
+	}
+	
+	
+	/************************* mobile ***********************/
+	
+/*
+	.createpage_area_title h4{
+		font-size: 15px;
+	}
+	.createpage_heading_inner img{
+		width: 24px;
+	}
+	.heading_inner_item{
+		margin-top: -5px;
+	}
+	.account_top_title{
+		
+	}
+}
+
+@media only screen and (max-width: 580px), only screen and (max-device-width: 580px) {
+	
+	
+	
+	
+	
+}
+@media only screen and (max-width: 540px), only screen and (max-device-width: 540px) {
+	
+	
+}
+
+
+@media only screen and (max-width: 480px), only screen and (max-device-width: 480px) {
+	
+	.tab_banner {
+		padding-bottom: 94px;
+	}
+	.tab_banner_text {
+		padding-top: 20px;
+	}
+	.tab_banner_text p{
+		text-align: left;
+		font-size: 15px;
+	}
+	.tab_banner_form{
+		padding-top: 20px;
+	}
+	.banner_form_inner_item {
+		margin-bottom: -6px;
+	}
+	.banner_form_inner_item1 select{
+		margin-top: 18px;
+	}
+	.banner_form_inner_check{
+		margin-top: 7px;
+	}
+	#banner_form_inner_item {
+		margin-top: 1px;
+		margin-bottom: 41px;
+	}
+	.account_top_title{
+		border-bottom: 1px solid#b8b8b8;
+	}
+	.account_list_inner ul{
+		max-width: 100%;
+	}
+	.account_list_inner ul li{
+		margin-left: 0px;
+		border-bottom: none;
+	}
+	.account_feedback_list{
+		border-top: 1px solid#b8b8b8;
+		padding-top: 8px;
+	}
+	.account_list_area{
+		padding-top: 15px;
+	}
+	.account_list_inner ul li:nth-child(3) {
+		padding-top: 12px;
+		padding-bottom: 32px;
+	}
+	.account_list_inner ul li{
+		padding: 14px 0px;
+	}
+	.account_feedback_list ul li{
+		padding: 11px 0px;
+		margin-left: 0px;
+	}
+	.account_copright_area{
+		padding-left: 0px;
+		padding-top: 40px;
+		padding-bottom: 82px;
+	}
+	.account_copright_inner p {
+		max-width: 331px;
+	}
+	.createpage_heading_inner h1 {
+		font-size: 36px;
+	}
+	.heading_inner_item li:nth-child(9){
+		display: none;
+	}
+	.createpage_heading{
+		padding-top: 37px;
+	}
+	.createpage_heading_inner img {
+		margin-bottom: 8px;
+	}
+	.createpage_heading_inner p{
+		padding-top: 18px;
+		padding-bottom: 19px;
+	}
+	.heading_inner_item li{
+		padding: 0px 0px;
+	}
+	.createpage_heading_inner button{
+		max-width: 162px;
+		margin-top: 30px;
+		margin-bottom: 94px;
+	}
+	.Loder_inner{
+		margin-top: 2px;
+		margin-bottom: 87px;
+	}
+	.yourpage_area_title{
+		border-bottom: 1px solid #bfbfbf;
+	}
+	.yourpage_manu_inner ul{
+		max-width: 100%;
+		margin-left: 0px;
+	}
+	.yourpage_manu{
+		padding-top: 14px;
+		padding-bottom: 163px;
+	}
+	.manu_inner_list li{
+		padding-left: 48px!important;
+	}
+	.yourpage_manu_inner_item:after {
+		top: 17px;
+	}
+	.yourpage_manu_inner ul li{
+		padding: 9px 0px;
+		border-bottom: none;
+	}
+	.yourpage_manu_inner ul li>.manu_inner_list li {
+		padding-left: 60px!important;
+	}
+	.manu_inner_list li:nth-child(1) {
+		padding-top: 10px !important;
+	}
+	.manu_inner_list li:nth-child(2){
+		padding-top: 0px!important;
+		padding-bottom: 0px;
+	}
+	.yourpage_manu_inner_item1{
+		margin-top: 22px!important;
+		padding-top: 13px!important;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+
+
+@media only screen and (max-width: 375px), only screen and (max-device-width: 375px) {
+	.account_copright_inner p {
+		max-width: 237px;
+*/
+	}
+	
+	
+}
+
+
+/**
+
+
+
+
+

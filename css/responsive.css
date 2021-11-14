@@ -1,0 +1,406 @@
+/* ***********************************************************
+******************index ***********************************
+*************************************************************** */
+
+
+
+
+
+
+
+
+@media (max-width: 575.98px) {
+    section#inputPaer {
+        display: none;
+    }
+
+    .post-top-text-part {
+        margin-top: 90px;
+    }
+
+    .pc_header {
+        display: none;
+    }
+
+    .tab_header,
+    .mobile {
+        display: block !important;
+    }
+
+    .mobile {
+        margin-top: 12px;
+        margin-bottom: 12px;
+    }
+
+    .pc_footer {
+        display: none;
+    }
+
+    .tab_display {
+        display: block;
+        background: #000;
+        margin-bottom:0px;
+        position: fixed;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 99;
+    }
+
+    .tab_display_innerlist1 img {
+        margin-left: -77px;
+    }
+
+    .tab_display_innerlist6 img {
+        margin-right: -66px;
+        width: 100%;
+    }
+
+   
+
+   .mobile_right span {
+display: none;
+}
+
+    .post-top input {
+        width: 75%;
+    }
+
+    a.btn.job-btn {
+        padding: 11px 16px;
+        font-size: 14px;
+
+    }
+
+    .btn1 a {
+        padding: 6px;
+        font-size: 11px;
+    }
+
+    .post-top input {
+        padding: 18px 26px;
+        font-size: 16px;
+    }
+
+    .in1 {
+        display: none;
+    }
+
+    .top-text p br {
+        display: none;
+    }
+
+    .googleAdd2 {
+        display: none;
+    }
+
+    .googleAdd1,
+    .googleAdd2 {
+        margin: auto;
+    }
+
+    .cmment-input input {
+        width: 75%;
+        font-size: 15px;
+    }
+
+    .addwraper {
+        display: none;
+    }
+    img.arrow-right {
+	top: 45%;
+	z-index: 99;
+	right: 27px;
+	position: absolute;
+}
+    img.arrow-left {
+	top: 45%;
+	z-index: 99;
+	
+	position: absolute;
+}
+
+
+}
+
+
+
+/*  Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+
+    section#inputPaer {
+        display: none;
+    }
+
+    .post-top-text-part {
+        margin-top: 90px;
+    }
+
+    .pc_header {
+        display: none;
+    }
+
+    .tab_header,
+    .mobile {
+        display: block !important;
+    }
+
+    .mobile {
+        margin-top: 12px;
+        margin-bottom: 12px;
+    }
+
+    .pc_footer {
+        display: none;
+    }
+
+    .tab_display {
+        display: block;
+        background: #000;
+        margin-bottom:0px;
+        position: fixed;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 99;
+    }
+
+    .tab_display_innerlist1 img {
+        margin-left: -77px;
+    }
+
+    .tab_display_innerlist6 img {
+        margin-right: -66px;
+        width: 100%;
+    }
+
+ 
+    .mobile_right span {
+        position: absolute;
+        right: 119px;
+        top: 4px;
+        background: red;
+        border-radius: ;
+        font-size: 11px;
+        width: 15px;
+        height: 15px;
+        line-height: 15px;
+        text-align: center;
+        border-radius: 50%;
+    }
+
+    .post-top input {
+
+        width: 85%;
+    }
+
+    .post-top input {
+        padding: 18px 26px;
+        font-size: 16px;
+    }
+
+    .in1 {
+        display: none;
+    }
+
+    .top-text p br {
+        display: none;
+    }
+
+    .googleAdd2 {
+        display: none;
+    }
+
+    .googleAdd1,
+    .googleAdd2 {
+        margin-left: 94px;
+    }
+
+    .cmment-input input {
+        width: 85%;
+    }
+
+    .addwraper {
+        display: none;
+    }
+    img.arrow-right {
+	top: 46%;
+	z-index: 99;
+	right: 27px;
+	position: absolute;
+}
+    img.arrow-left {
+	top: 46%;
+	z-index: 99;
+	
+	position: absolute;
+}
+
+
+}
+
+
+
+/* 
+
+// Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    section#inputPaer {
+        display: none;
+    }
+
+    .post-top-text-part {
+        margin-top: 90px;
+    }
+
+    /*
+    .col-lg-7.ml-auto.col-md-12.fullwraper {
+        position: absolute;
+    }
+*/
+
+    /*tab manu*/
+    .pc_header {
+        display: none;
+    }
+
+    .tab_header,
+    .mobile {
+        display: block !important;
+    }
+img.arrow-left {
+	top: 45%;
+	z-index: 99;
+	position: absolute;
+}
+    img.arrow-right {
+	top: 45%;
+	z-index: 99;
+	position: absolute;
+}
+    .mobile {
+        margin-top: 12px;
+        margin-bottom: 12px;
+    }
+
+    .pc_footer {
+        display: none;
+    }
+
+    .tab_display {
+        display: block;
+        background: #000;
+        margin-bottom: 0px;
+        position: fixed;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 99;
+    }
+
+    .tab_display_innerlist1 img {
+        margin-left: -77px;
+    }
+
+    .tab_display_innerlist6 img {
+        margin-right: -66px;
+        width: 100%;
+    }
+
+    .in2 {
+        display: none;
+    }
+
+    
+
+    .googleAdd1,
+    .googleAdd2 {
+        float: left;
+        margin-right: 90px;
+    }
+
+    .addwraper {
+        display: none;
+    }
+
+.mobile_right span {
+	position: absolute;
+	right: 163px;
+	top: 8px;
+	background: red;
+	border-radius: ;
+	font-size: 11px;
+	width: 15px;
+	height: 15px;
+    
+	line-height: 15px;
+	text-align: center;
+	border-radius: 50%;
+}
+
+}
+
+
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .selectedPart1 img {
+        margin-left: 10px;
+    }
+
+    .selectedPart2 img {
+        margin-left: 10px;
+    }
+
+    .input-group input {
+        width: 15px;
+        height: 15px;
+    }
+
+    .input-group span {
+        font-size: 11px;
+        margin-left: 20px;
+    }
+
+    .top-text p {
+        font-size: 14px;
+    }
+
+    .in2 {
+        display: none;
+    }
+
+    .post-top input {
+        width: 86%;
+        font-size: 13px;
+    }
+
+    .cmment-input input {
+        width: 85%;
+    }
+
+    .md-add {
+        display: none;
+    }
+
+    .nav_logo_d {
+        max-width: 31.8%;
+        width: 100%;
+    }
+
+}
+
+
+
+/* // Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    .md-add {
+        display: none;
+    }
+
+    .in2 {
+        display: none;
+    }
+}
